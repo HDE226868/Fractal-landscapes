@@ -7,7 +7,8 @@ from scipy.interpolate import spline
 x1 = 0
 y1 = 0
 x2 = 1
-y2 = 0p1 = [x1,y1]
+y2 = 0
+p1 = [x1,y1]
 p2 = [x2,y2]
 "
 # Create the list of points, and add the first two points to it.
