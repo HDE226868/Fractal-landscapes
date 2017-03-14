@@ -10,7 +10,7 @@ x2 = 1
 y2 = 0
 p1 = [x1,y1]
 p2 = [x2,y2]
-"
+
 # Create the list of points, and add the first two points to it.
 P = []
 P.append(p1)
@@ -18,7 +18,7 @@ P.append(p2)
 
 temp = [a for a in P]
 
-"N = 1 # The number of initialy subintervals. This code currently doesn't
+N = 1 # The number of initialy subintervals. This code currently doesn't
       # have functionality for more than one built in.
 
 def distance(point1,point2):
